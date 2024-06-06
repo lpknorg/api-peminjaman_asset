@@ -11,6 +11,6 @@ func main() {
     config.InitDB()
     router := routes.SetupRouter()
 
-    log.Println("Server started at :8080")
-    log.Fatal(http.ListenAndServe(":8080", router))
+    log.Println("Server started at :9990")
+    log.Fatal(http.ListenAndServe(":9990", router))
 }
