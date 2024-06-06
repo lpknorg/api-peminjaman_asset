@@ -1,3 +1,2 @@
-# api-asset2/controllers
-controllers\permintaanController.go:83:26: cannot use r.FormValue("tenaga_it") (value of type string) as int value in struct literal
-controllers\permintaanController.go:84:26: cannot use r.FormValue("dok_support") (value of type string) as int value in struct literal
+# api-asset2/routes
+routes\router.go:6:5: "api-asset2/middleware" imported and not used

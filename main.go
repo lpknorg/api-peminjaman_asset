@@ -4,7 +4,7 @@ import (
     "log"
     "net/http"
     "api-asset2/routes"
-    "api-asset2/config"
+    "api-asset2/config"    
 )
 
 func main() {
